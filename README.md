@@ -1,2 +1,2 @@
 # dominic-dev1-
-my name is dominic; i learning cyber security
+my name is dominic; i am learning cyber security
